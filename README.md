@@ -1,2 +1,1 @@
-# ae1947a6-38c1-4062-81ae-5956375fb52e-ce1f6030-d9f1-48bc-a209-5e36645c07cc
-https://sonarcloud.io/summary/overall?id=iamneo-production_ae1947a6-38c1-4062-81ae-5956375fb52e-ce1f6030-d9f1-48bc-a209-5e36645c07cc
+TravelTales is a full-stack web application designed to help users explore and manage global travel destinations. This project uses a React frontend with Bootstrap for a responsive UI. The backend is built using .NET with ADO.NET for efficient data handling, and a SQL database is used for storing destination-related information.
